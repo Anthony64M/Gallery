@@ -1,7 +1,7 @@
 # WallCraft
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB">
-  <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=0F3D2D">
-##  Author
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB">  <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=0F3D2D">
+
+## Author
 Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Anthony</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 
