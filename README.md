@@ -15,7 +15,6 @@ This is a web lication for viewing great pictures and designs. Images on site ar
 
 <img src="https://raw.githubusercontent.com/Anthony64M/WallCraft/master/static/images/homepage.png" width="900px" height="440px">
 <img src="https://raw.githubusercontent.com/Anthony64M/WallCraft/master/static/images/profile.png" width="900px" height="440px">
-<img src="https://raw.githubusercontent.com/Anthony64M/WallCraft/master/static/images/comment.png" width="900px" height="440px">
 
 
 
