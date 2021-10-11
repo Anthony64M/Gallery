@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
 This is a web lication for viewing great pictures and designs. Images on site are updated by Admin of the page.Where images are in various locations.
 
 ## Live Link
-<!-- [View Site](https://jymalblog.heroku.com/) -->
+[View Site](https://wallcraft.herokuapp.com/)
 
 ## Screenshots
 
