@@ -38,7 +38,7 @@ ALLOWED_HOSTS = ['']
 
 INSTALLED_APPS = [
     'cloudinary',
-    'bootstrap3',
+    'bootstrap5',
     'gallery.apps.galleryConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -136,6 +136,8 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
 ]
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
 
 #.........
 MEDIA_URL = '/media/'
