@@ -6,17 +6,16 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
 
 
 # Description
-This is a web application for viewing great pictures and designs. Images on site are updated by Admin of the page.Where photos are in various locations.
+This is a web lication for viewing great pictures and designs. Images on site are updated by Admin of the page.Where images are in various locations.
 
 ## Live Link
-<!-- [View Site](https://jymalblog.herokuapp.com/) -->
+<!-- [View Site](https://jymalblog.heroku.com/) -->
 
 ## Screenshots
 
-<!-- <img src="https://raw.githubusercontent.com/Anthony64M/JymBlog/master/app/static/photos/homepage.png" width="900px" height="440px">
-<img src="https://raw.githubusercontent.com/Anthony64M/JymBlog/master/app/static/photos/profile.png" width="900px" height="440px">
-<img src="https://raw.githubusercontent.com/Anthony64M/JymBlog/master/app/static/photos/comment.png" width="900px" height="440px">
-<img src="https://raw.githubusercontent.com/Anthony64M/JymBlog/master/app/static/photos/phone.png" width="500px" height="1300px"> -->
+<img src="https://raw.githubusercontent.com/Anthony64M/WallCraft/master/static/images/homepage.png" width="900px" height="440px">
+<img src="https://raw.githubusercontent.com/Anthony64M/WallCraft/master/static/images/profile.png" width="900px" height="440px">
+<img src="https://raw.githubusercontent.com/Anthony64M/WallCraft/master/static/images/comment.png" width="900px" height="440px">
 
 
 
@@ -61,7 +60,7 @@ python manage.py runserver
 ```
 
 
-- Open the browser and navigate to http://127.0.0.1:8000/ to see the application in action
+- Open the browser and navigate to http://127.0.0.1:8000/ to see the lication in action
 
 ## Technologies Used
 
